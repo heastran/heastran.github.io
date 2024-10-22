@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://heastran.github.io/heastran.txt.gz
+Sitemap: https://heastran.github.io/app/heastran.txt.gz
+Sitemap: https://heastran.github.io/assets/heastran.txt.gz
+Sitemap: https://heastran.github.io/css/heastran.txt.gz
+Sitemap: https://heastran.github.io/includes/heastran.txt.gz
+Sitemap: https://heastran.github.io/item/heastran.txt.gz
+Sitemap: https://heastran.github.io/src/heastran.txt.gz
